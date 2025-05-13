@@ -5,15 +5,32 @@ PRD = Thats means Product/Project Requirements Document
 3. Features and Requirements(p1,p2)
 4. User Stories or Use Cases
 5. Technical Requirements
-6. Design Requirements
-7. Timeline
+6. Design Requirements                   = logo kn s hoga, color theme kn s hoga,cards kaise rakhne h, mobile optimize rakhna h, to usme hm kya chiz dikha skte h, 
+kya hide kr sakte h, font size kya hoga , kis trh ki images rakhenge. hmre juice shop ko kis trh se cartunic fill dena chahte h, ya real images use type se 
+hm design krte h.
+ab jaise ki ek website h like:-  plantescale ki websites h, to ap use pr kaise sochte ho ki websites kaise design hoga uska theme light hoga y dark hoga y uska
+ logo blue color ka hi hoag, to iske liye apko Design Requirements ki hi jrurt hota h.
 
-i Have 4 prd related topic like
 
-1. Todo app
-2. Juice shop
-3. car Washing
-4. Salon
+7. Timeline                              = 5 month
+8. Success mateic                        = isko ham tbhi start krenge jb ham js, react ko khtm kr lenge.
+
+
+i Have 4 prd related topic like hogi
+
+1. Todo app        = this app for engineerine or Designer. 
+todo app for time tracking. 
+ky usme har task ko color me v assign kiya ja skta h.
+todo app ap kiske liye bana rahe ho ek clg students ke liy y fir professional ke liye.
+
+2. Juice shop      = ek juice wale ko mujhe online leke anna  h, mujhe to kya 
+uske liye mujhe website banana chahya y fir app. uske pass seasional or non seasional both hote h, kch log juices ke customized order dete h
+kayi br juices jada ho to oo flax sell niklna chahta ho to app kya kr sakte ho kya bana skte ho.
+koye subscription v lena chahta ho.
+3. car Washing3. car Washing    = sirf car wash or engine wash thats or kch ni krte to, y kaise kya karenge to reminder bhej skte h,
+
+4. Salon          = kis trh ke kam ho rahe h, kitni booking ho rahi h, slots h y ni h, y sab pr apko PRD bannai h,
+
 
 choose any 1 or 2 thats your chhoice
 
