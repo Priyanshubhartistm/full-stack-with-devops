@@ -1,0 +1,60 @@
+/* CSS:- cascading(ek ke upr ek overwrite) style sheet.
+
+CSS:- is a makup.
+
+CSS are three types:-
+1. inline      = iska jb ham sirf or sirf specific ek hi element ko use krna chahte h, tb krte h.
+y kaise km krti , style attribute de kr.
+
+2. internal    = isme hm ek style tag bante h, head ke andr,or isme style ke andr sara css k tag likhte h.
+
+button {
+bg-color:red;
+}
+
+here, 
+Button     = are the selector
+bg-color   = property
+red        = value
+
+
+3. external     = 
+
+
+
+** TAG      =
+** ID       = always will be unique iddentify. isko select krne ke liye # dal denge.
+** CLASS    = isko select krne ke liye dot (.) dal denge.
+
+
+
+TAG    - Student  = tag se v jda specific h,class
+Class  - Group    = class se v jda specific h, id
+ID     - Unique   = ise v jada speciific h,inline
+
+cascading - ka ek weight hota h. 
+
+
+Element are 2 types
+1. Block Level Elements  = block level jo element h, oo bydefault pura k pura ek block le leta h, 
+
+2. Inline Level Elements  = but jo inline level element h, o depend krta h, ki uske andr content kitna h.
+
+to basically inline element oo hote h, jisko jitna space chahya utna hi lete h, or ek element ke end hote h, agla element start ho jata h, yahi se.
+
+
+ek ek ke bad ek element ata h, that is called , Inline Level Elements.
+
+example of block, inline:-moz-any
+
+BLOCK       = div, p,h1,br,section,footer,article,hr,header,nav,ul,li
+
+INLINE      = span, img, button, a, bold, input, b, em.
+
+
+
+
+
+
+
+*/
