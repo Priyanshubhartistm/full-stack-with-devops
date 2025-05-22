@@ -1,0 +1,16 @@
+/* UNITS are 2 types:-
+
+1. Absolute           = 30px absolute always find out own nearest relative parent(relative parent ke andr work krta h) agr relative n ho to oo browser ko hi follow kregag.
+2. Relatives          = % ; 
+em relative to the font-size of the element
+rem relative to the font-size of the root element
+
+
+vh    = viewheight
+vw    = viewportwidth
+
+
+
+
+
+*/
