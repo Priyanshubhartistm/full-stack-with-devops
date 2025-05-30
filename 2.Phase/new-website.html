@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        nav {
+            display: flex;
+            background-color:#1f2937;
+            justify-content: space-around;
+            align-items: center;
+            padding: 20px 80px;
+            color: #ffffff;
+
+        }
+        nav div ul {
+            display: flex;
+            gap: 20px;
+            list-style-type: none;
+            cursor: pointer;
+        }
+        nav div button {
+            padding: 5px 10px;
+            border-radius: 5px;
+            border: none;
+            cursor: pointer;
+        }
+        nav div button:hover {
+            background-color: #1144a3;
+            color: #ffffff;
+        }
+    
+        /* 2nd section */
+
+        .hero {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            background-color: #1f2937;
+            color: #ffffff;
+            padding: 40px 80px;
+            
+
+        }
+        .hero div {
+            width: 50%;
+
+        }
+        .hero div h1 {
+            font-size: 3rem;
+            margin-top: 1rem;
+            color: #efe815;
+
+        }
+        .hero p {
+            font-size: 1.2rem;
+            color: #b9b9b9;
+            margin-bottom: 1rem;
+        }
+        .hero div button:hover{
+            padding: 8px 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 200px;
+        } 
+        .hero div img {
+            width: 100%;
+            border-radius: 20px;
+            object-fit: cover;
+            box-shadow: 0 0 10px white;
+
+        }
+        .hero div img:hover{
+            transform: rotate(10deg);
+            transition: all 0.5s ease-in-out;
+            
+        }
+        
+    </style>
+</head>
+<body>
+    <nav>
+        <div>
+            <p>MyLogo</p>
+        </div>
+        
+        <div>
+            <ul>
+             Home
+<li>About Us</li> 
+<li>Menu / Products</li>
+<li>Fruit Juices</li>
+<li>Combos / Packs</li>
+<li>Juice Benefits</li>
+<li>Order Now / Shop</li>
+<li>Gallery</li>
+<li> Blog</li>
+<li>Contact Us</li>
+
+            </ul>
+        </div>
+        <div>
+            <button>signup</button>
+            <button>Logout</button>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div>
+
+            <h1>"Juice Junction – Freshness in Every Drop!"</h1>
+            <p>
+                Welcome to Juice Junction, your go-to destination for refreshing, healthy, and all-natural fruit juices! Our website is dedicated to bringing you the best blends of nature’s sweetest offerings—packed with flavor, nutrients, and goodness in every sip.
+
+Whether you're looking for classic favorites like orange or mango, or exotic mixes like kiwi-lime or berry fusion, we've got something for every taste. We believe in purity, so all our juices are made from fresh, real fruits—no added preservatives, no artificial colors, just honest juice.
+
+Explore our menu, learn about the health benefits of each fruit, and discover new favorites. At Juice Junction, we don't just serve juice—we serve a lifestyle of health, hydration, and happiness.
+
+
+
+            </p>
+            <button>signup</button>
+
+        </div>
+
+        <div>
+            <img 
+            
+            
+            src="fruitbg.jpg" alt="">
+        </div>
+
+    </section>
+</body>
+</html>
