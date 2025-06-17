@@ -5,7 +5,9 @@
 // you just need to implement the totalchocolateBars function
 function totalchocolateBars(barsperbox, numOfBoxes) {
     // return barsperbox multiplied by numberofboxes
+    return barsperbox * numOfBoxes
 
 }
 
-totalchocolateBars 
+totalchocolateBars(9, 3);
+console.log(totalchocolateBars(9, 3));
