@@ -5,5 +5,9 @@
 
 function totalcupcakes(trayOne, trayTwo) {
     // return the sum of trayOne and trayTwo
+    return trayTwo + trayOne
+    // input  :- {"trayTwo": 12, "trayOne": 20"}
 
 }
+totalcupcakes(12, 20);
+console.log(totalcupcakes(12, 20));
