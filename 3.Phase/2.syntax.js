@@ -21,8 +21,8 @@ function addTwo(ekNum, doNum) {
 
 bringbrush(4);
 printchai();
-addTwo(1, 1);
-console.log(addTwo);
+addTwo(2, 13);
+console.log(addTwo(2, 13));
 
 
 
