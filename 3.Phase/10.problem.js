@@ -6,6 +6,8 @@ console.log(teas);
 // 2 Problem: Add "chamolie tea" to the exisiting list of teas.
 
 teas.push("chamomile tea");
+
+
 // 3 Problem: Remove "OOLONG tea" from the list of teas.
 
 // 4 Problem: Filtter the list to only include teas that are caffeinated.
