@@ -24,3 +24,13 @@ teas.push("chamomile tea");
 
 // 10 Problem: Use a for loop to reverse the order of teeas in the array.
 
+// 11 Problem: Use a for loop to check if "green tea" is in the list of teas.
+
+
+
+// 12 Problem: Use a for loop to create a new array with the length of each tea name.
+const teaNameLengths = [];
+for (let i = 0; i < teas.length; i++) {
+    teaNameLengths.push(teas[i].length);
+}
+console.log(teaNameLengths);
