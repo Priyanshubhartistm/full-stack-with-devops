@@ -11,3 +11,4 @@ address = {
     country: "USA"
 };
 console.log(person.name); // Accessing property using dot notation
+
