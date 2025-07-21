@@ -28,6 +28,7 @@ JS ko do jhugh chal skte h
 1. Browser Console
 2. Node.js Environment
 
+to windows ke andr bhut sare functions and objects jo apko alg alg tarh ki functionality provide krte h, jo browser ke through access ki jati h,
 
 
 
