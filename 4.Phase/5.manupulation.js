@@ -20,3 +20,5 @@ changeBackgroundBlack();
 function changeBackgroundBlack() {
     document.body.style.backgroundColor = "black";
 }
+
+changeBackgroundBlack();
