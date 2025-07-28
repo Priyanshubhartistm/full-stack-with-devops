@@ -6,3 +6,4 @@
 console.log(window);
 
 window.document.write("Hello Priyanshu js");
+
